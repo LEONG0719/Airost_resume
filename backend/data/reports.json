@@ -1,0 +1,6 @@
+[
+  {"team": "Alpha", "date": "2025-06-01", "tasks": 5, "hours": 40},
+  {"team": "Alpha", "date": "2025-06-02", "tasks": 8, "hours": 35},
+  {"team": "Beta", "date": "2025-06-01", "tasks": 4, "hours": 30},
+  {"team": "Beta", "date": "2025-06-02", "tasks": 7, "hours": 42}
+]
